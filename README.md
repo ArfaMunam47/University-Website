@@ -1,1 +1,1 @@
-# University-Website
+A modern and responsive university website project built to showcase academic programs, departments, and important university information. This repository contains all source files used in the development of the website.
